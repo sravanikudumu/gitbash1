@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 56FA-DDDB
+
+ Directory of C:\Users\IBM_ADMIN\Desktop\Git2
+
+07/25/2017  03:27 PM    <DIR>          .
+07/25/2017  03:27 PM    <DIR>          ..
+07/25/2017  03:27 PM                 0 test3.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  220,597,764,096 bytes free
